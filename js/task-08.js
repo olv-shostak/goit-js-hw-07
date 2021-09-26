@@ -18,7 +18,10 @@ function onRenderBtnClick() {
         // createBox.style.width = Number.parseInt(createBox.style.width) + 30 + 'px';
         // createBox.style.height = Number.parseInt(createBox.style.height) + 30 + 'px';
     }
+    a = 0;
 }
+
+
 
 function onDestroyBtnClick() {
     divBoxes.innerHTML = '';
